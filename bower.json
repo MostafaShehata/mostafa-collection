@@ -1,5 +1,7 @@
 {
-
+  "name": "mostafa-collection",
+  "description": "mostafa-collection",
+  "main": "mostafa-collection.html",
   "dependencies": {
     "hello-element": "mostafashehata/hello-element#^1.0.3",
     "welcome-element": "mostafashehata/welcome-element#^1.0.0"
