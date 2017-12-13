@@ -1,13 +1,8 @@
 {
-  "name": "mostafa-collection",
-  "main": "index.html",
+
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0",
     "hello-element": "mostafashehata/hello-element#^1.0.3",
     "welcome-element": "mostafashehata/welcome-element#^1.0.0"
   },
-  "devDependencies": {
-    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
-  }
+  keywords:["element-collection"]
 }
